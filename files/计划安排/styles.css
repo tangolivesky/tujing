@@ -13,7 +13,6 @@
   z-index:0;
 }
 #u0_img {
-  border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
@@ -21,19 +20,17 @@
   height:532px;
 }
 #u0 {
-  border-width:0px;
   position:absolute;
   left:86px;
   top:48px;
   width:744px;
   height:532px;
 }
-#u0_text {
-  border-width:0px;
+#u1 {
   position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
+  left:2px;
+  top:258px;
+  width:740px;
   visibility:hidden;
   word-wrap:break-word;
 }
