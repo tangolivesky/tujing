@@ -16,8 +16,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:458px;
-  height:174px;
+  width:860px;
+  height:192px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -29,15 +29,15 @@
 #u247 {
   position:absolute;
   left:49px;
-  top:46px;
-  width:458px;
-  height:174px;
+  top:28px;
+  width:860px;
+  height:192px;
 }
 #u248 {
   position:absolute;
   left:0px;
   top:0px;
-  width:458px;
+  width:860px;
   word-wrap:break-word;
 }
 #u249 {
@@ -1423,7 +1423,7 @@
 }
 #u356 {
   position:absolute;
-  left:164px;
+  left:165px;
   top:1282px;
   width:261px;
   height:18px;
