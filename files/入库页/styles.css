@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u1984_img {
+#u1988_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1430px;
   height:750px;
 }
-#u1984 {
+#u1988 {
   position:absolute;
   left:46px;
   top:32px;
   width:1430px;
   height:750px;
 }
-#u1985 {
+#u1989 {
   position:absolute;
   left:2px;
   top:367px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1986_div {
+#u1990_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -48,28 +48,28 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1986 {
+#u1990 {
   position:absolute;
   left:994px;
   top:271px;
   width:43px;
   height:20px;
 }
-#u1987 {
+#u1991 {
   position:absolute;
   left:0px;
   top:0px;
   width:43px;
   white-space:nowrap;
 }
-#u1988 {
+#u1992 {
   position:absolute;
   left:1061px;
   top:271px;
   width:300px;
   height:22px;
 }
-#u1988_input {
+#u1992_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -82,15 +82,15 @@
   text-decoration:none;
   color:#000000;
 }
-#u1988_input:disabled {
+#u1992_input:disabled {
   color:grayText;
 }
-#u1989_div {
+#u1993_div {
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
-  height:180px;
+  height:262px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -98,22 +98,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:16px;
+  color:#FF0000;
 }
-#u1989 {
+#u1993 {
   position:absolute;
   left:1549px;
   top:78px;
   width:300px;
-  height:180px;
+  height:262px;
+  font-size:16px;
+  color:#FF0000;
 }
-#u1990 {
+#u1994 {
   position:absolute;
   left:0px;
   top:0px;
   width:300px;
   word-wrap:break-word;
 }
-#u1991_div {
+#u1995_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -127,28 +131,28 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u1991 {
+#u1995 {
   position:absolute;
   left:576px;
   top:271px;
   width:71px;
   height:20px;
 }
-#u1992 {
+#u1996 {
   position:absolute;
   left:0px;
   top:0px;
   width:71px;
   white-space:nowrap;
 }
-#u1993 {
+#u1997 {
   position:absolute;
   left:651px;
   top:271px;
   width:228px;
   height:25px;
 }
-#u1993_input {
+#u1997_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -162,14 +166,14 @@
   color:#000000;
   text-align:left;
 }
-#u1994 {
+#u1998 {
   position:absolute;
   left:889px;
   top:274px;
   width:51px;
   height:22px;
 }
-#u1994_input {
+#u1998_input {
   position:absolute;
   left:0px;
   top:0px;
@@ -182,6 +186,6 @@
   text-decoration:none;
   color:#000000;
 }
-#u1994_input:disabled {
+#u1998_input:disabled {
   color:grayText;
 }
