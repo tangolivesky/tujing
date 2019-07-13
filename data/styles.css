@@ -13,6 +13,15 @@
 }
 .box_3 {
 }
+._形状 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
 .image {
 }
 .button {
